@@ -170,3 +170,6 @@ Every run should maintain Proof Packet with:
 - Never use Meego comments as a substitute for MR review.
 - Never run real write actions without explicit confirmation.
 
+## Validation Reference
+
+For the current verified capability matrix, read `references/validation.md` when the user asks whether the skill has been tested or wants full validation evidence.
